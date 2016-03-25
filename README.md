@@ -1,4 +1,4 @@
-# useR2016
+# useR! 2016
 In this repository, we show the examples of usage of the package Shiny for text retrieval, classification and quantification, discussed in the abstract submitted to useR! 2016.
 
 ## Text Retrieval
